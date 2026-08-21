@@ -23,6 +23,10 @@ Alpha. The rules engine and web client are live; native and CLI clients are
 newer and less polished. Issues and playtest feedback are welcome on the
 [main repo](https://github.com/phalanxduel/phalanxduel/issues).
 
-This is a small, self-funded project — see the
-[Support section](https://github.com/phalanxduel/phalanxduel#-support-this-project)
-of the main README if you'd like to help keep it running.
+---
+
+## Creator & Architecture
+
+Designed, architected, and maintained by **[Mike Hall (@just3ws)](https://github.com/just3ws)** — Principal Software Engineer focused on deterministic simulation, production reliability, and verifiable game systems.
+
+🌐 **Profile & Systems Work:** [just3ws.com](https://www.just3ws.com)
