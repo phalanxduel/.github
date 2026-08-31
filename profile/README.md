@@ -1,32 +1,42 @@
 # Phalanx Duel
 
-A tactical 1v1 card combat game — a deterministic, server-authoritative engine
-with an open architecture and verifiable match history, built for standard
-playing cards.
+A tactical 1v1 card combat game — **v1.5.0 Stable** — with a deterministic,
+server-authoritative TypeScript engine, replay verification, and an official
+web client built around standard playing cards.
 
 **[Play now →](https://play.phalanxduel.com)** · [phalanxduel.com](https://phalanxduel.com)
 
 ## Repositories
 
-- **[phalanxduel](https://github.com/phalanxduel/phalanxduel)** — the core
-  rules engine, server, and web client (TypeScript monorepo).
-- **[game-swiftui](https://github.com/phalanxduel/game-swiftui)** — native
-  macOS client (alpha).
+- **[phalanxduel](https://github.com/phalanxduel/phalanxduel)** — the canonical
+  rules engine, server, web client, APIs, SDKs, and verification tooling.
+- **[game-swiftui](https://github.com/phalanxduel/game-swiftui)** — experimental
+  native macOS client; the browser client is the primary supported visual client.
 - **[homebrew-tap](https://github.com/phalanxduel/homebrew-tap)** — Homebrew
   formula/cask for installing the Go CLI and macOS client.
 - **[phalanxduel.github.io](https://github.com/phalanxduel/phalanxduel.github.io)**
-  — this project's site and docs.
+  — the player-facing site, documentation, tutorials, and curated public media.
+- **[phalanxduel wiki](https://github.com/phalanxduel/phalanxduel/wiki)** —
+  technical and contributor guidance.
 
 ## Status
 
-Alpha. The rules engine and web client are live; native and CLI clients are
-newer and less polished. Issues and playtest feedback are welcome on the
-[main repo](https://github.com/phalanxduel/phalanxduel/issues).
+The browser game is live in production. The current focus is reliable,
+explainable, replay-verifiable gameplay, documentation, and practical client
+access. Native wrappers remain experimental. Issues and playtest feedback are
+welcome on the [main repo](https://github.com/phalanxduel/phalanxduel/issues).
 
----
+## Creator, Hiring, and Support
 
-## Creator & Architecture
+Designed, architected, and maintained by **[Mike Hall (@just3ws)](https://github.com/just3ws)**,
+a Principal Software Engineer and Systems Architect.
 
-Designed, architected, and maintained by **[Mike Hall (@just3ws)](https://github.com/just3ws)** — Principal Software Engineer focused on deterministic simulation, production reliability, and verifiable game systems.
+Mike is available for hire for legacy modernization, distributed systems
+architecture, platform resilience, OpenTelemetry, AI/MCP tooling, and technical
+enablement engagements.
 
-🌐 **Profile & Systems Work:** [just3ws.com](https://www.just3ws.com)
+- [Principal resume](https://www.just3ws.com/resumes/mike-hall-principal-software-engineer/)
+- [Advisory engagements](https://www.just3ws.com/engagements/)
+- [Contact Mike](https://www.just3ws.com/contact/)
+- [GitHub Sponsors](https://github.com/sponsors/just3ws)
+- [Buy Me a Coffee](https://buymeacoffee.com/just3ws)
