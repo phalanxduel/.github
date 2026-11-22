@@ -35,6 +35,8 @@ Mike is available for hire for legacy modernization, distributed systems
 architecture, platform resilience, OpenTelemetry, AI/MCP tooling, and technical
 enablement engagements.
 
+- [YouTube playlist (@just3ws-mike)](https://www.youtube.com/playlist?list=PLHenvAZhJjHo)
+- [Patreon](https://www.patreon.com/c/just3ws)
 - [Principal resume](https://www.just3ws.com/resumes/mike-hall-principal-software-engineer/)
 - [Advisory engagements](https://www.just3ws.com/engagements/)
 - [Contact Mike](https://www.just3ws.com/contact/)
